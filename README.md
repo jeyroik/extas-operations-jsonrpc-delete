@@ -1,7 +1,7 @@
 ![tests](https://github.com/jeyroik/extas-operations-jsonrpc-delete/workflows/PHP%20Composer/badge.svg?branch=master&event=push)
 ![codecov.io](https://codecov.io/gh/jeyroik/extas-operations-delete-update/coverage.svg?branch=master)
 <a href="https://github.com/phpstan/phpstan"><img src="https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat" alt="PHPStan Enabled"></a>
-
+<a href="https://codeclimate.com/github/jeyroik/extas-operations-jsonrpc-delete/maintainability"><img src="https://api.codeclimate.com/v1/badges/87ccd607efb057233b24/maintainability" /></a>
 <a href="https://github.com/jeyroik/extas-installer/" title="Extas Installer v3"><img alt="Extas Installer v3" src="https://img.shields.io/badge/installer-v3-green"></a>
 [![Latest Stable Version](https://poser.pugx.org/jeyroik/extas-operations-jsonrpc-delete/v)](//packagist.org/packages/jeyroik/extas-jsonrpc)
 [![Total Downloads](https://poser.pugx.org/jeyroik/extas-operations-jsonrpc-delete/downloads)](//packagist.org/packages/jeyroik/extas-jsonrpc)
